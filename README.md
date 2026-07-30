@@ -7,4 +7,5 @@ Here is some information about the creation:
 I have used many HTML tags to make my portfolio like heading, horizontal line tag, background-color, margin, text-align, text-decoration, font weight, line height and many more.
 I have used worm colors in my portfolio. I have picked them as color pallets on internet.
 I have used the content of Flexbox in my portfolio and also the content of media query to make my portfolio responsive for every type of screen.
+I have also used the hover property in HTML. I have used the transition to make the web page better. 
 In the last I have used the semantic tags like section, header, main and many more to increase the SEO of the portfolio.
